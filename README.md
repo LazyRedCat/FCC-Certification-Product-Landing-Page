@@ -2,4 +2,4 @@
 
 A certification project from the FCC where you had to make a landing page.
 
-![image](https://github.com/LazyRedCat/FCC-Certification-Product-Landing-Page/assets/143682146/58bd33b8-0972-4aa9-ac34-0b57dd1f0fbb)
+![image](https://github.com/LazyRedCat/FCC-Certification-Product-Landing-Page/assets/143682146/5652f7fa-5d85-462d-b90a-138baf59fcd7)
