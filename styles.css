@@ -127,7 +127,7 @@ input[type="submit"] {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 80vw;
+  width: 70vw;
 }
 
 #facts .h2 {
@@ -199,13 +199,10 @@ footer {
   #facts .icon {
     display: none;
   }
-  .icon {
-    display: none !important;
-  }
   #facts .desc {
-    width: 100%;
+    width: 90vh;
     text-align: center;
-    padding: 0;
+    padding: 15px;
   }
   iframe {
     height: auto;
